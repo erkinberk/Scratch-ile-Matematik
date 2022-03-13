@@ -9,7 +9,7 @@ Projenin Özel Amacı:	Kodlama için sınıflara ve zorluklara göre matematik p
 Projenin Süresi:	2025 yılının temmuzuna kadar.
 
 Projenin Toplam Bütçesi:	300 TL.
-.	
+
 Projeyi Finanse Eden Kuruluş:	Bağışlar.
 
 Projenin Uygulanacağı Yer:	Türkiye Genelinde
