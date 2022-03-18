@@ -6,11 +6,11 @@
 
 # Problem 2: Çift Fibonacci Sayıları[^2]
 
-Fibonacci dizisindeki her yeni terim, önceki iki terimin eklenmesiyle oluşturulur. 1 ve 2 ile başlayarak, ilk 10 terim şöyle olacaktır:
+Fibonacci dizisindeki her yeni sayı, önceki iki sayının eklenmesiyle oluşturulur. 1 ve 2 ile başlayarak, ilk 10 sayı şöyle olacaktır:
 
 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
 
-Fibonacci dizisindeki değerleri dört milyonu geçmeyen terimleri dikkate alarak çift değerli terimlerin toplamını bulunuz. 
+Fibonacci dizisindeki değerleri dört milyonu geçmeyen sayıları dikkate alarak çift değerli sayıların toplamını bulunuz. 
 
 # Problem 3: En Büyük Asal Faktör[^3]
 
@@ -18,7 +18,7 @@ Fibonacci dizisindeki değerleri dört milyonu geçmeyen terimleri dikkate alara
 
 600851475143 sayısının en büyük asal çarpanı kaçtır? 
 
-# Problem 4: En Büyük Palindrom Ürünü[^4] 
+# Problem 4: En Büyük Palindrom Çarpımı[^4] 
 
 Palindromik bir sayı her iki şekilde de aynı şekilde okunur. 2 basamaklı iki sayının çarpımından elde edilen en büyük palindrom 9009 = 91 × 99'dur.
 
@@ -50,42 +50,42 @@ Dolayısıyla ilk on doğal sayının kareleri toplamı ile toplamın karesi ara
 
 10001. asal sayı kaçtır? 
 
-# Problem 8: Serideki En Büyük Ürün[^8]
+# Problem 8: Serideki En Büyük Çarpım[^8]
 
 1000 basamaklı sayının en büyük çarpımı olan bitişik dört basamağı 9 × 9 × 8 × 9 = 5832'dir.
 
-73167176531330624919225119674426574742355349194934
-96983520312774506326239578318016984801869478851843
-85861560789112949495459501737958331952853208805511
-12540698747158523863050715693290963295227443043557
-66896648950445244523161731856403098711121722383113
-62229893423380308135336276614282806444486645238749
-30358907296290491560440772390713810515859307960866
-70172427121883998797908792274921901699720888093776
-65727333001053367881220235421809751254540594752243
-52584907711670556013604839586446706324415722155397
-53697817977846174064955149290862569321978468622482
-83972241375657056057490261407972968652414535100474
-82166370484403199890008895243450658541227588666881
-16427171479924442928230863465674813919123162824586
-17866458359124566529476545682848912883142607690042
-24219022671055626321111109370544217506941658960408
-07198403850962455444362981230987879927244284909188
-84580156166097919133875499200524063689912560717606
-05886116467109405077541002256983155200055935729725
-71636269561882670428252483600823257530420752963450
+73167176531330624919225119674426574742355349194934<br>
+96983520312774506326239578318016984801869478851843<br>
+85861560789112949495459501737958331952853208805511<br>
+12540698747158523863050715693290963295227443043557<br>
+66896648950445244523161731856403098711121722383113<br>
+62229893423380308135336276614282806444486645238749<br>
+30358907296290491560440772390713810515859307960866<br>
+70172427121883998797908792274921901699720888093776<br>
+65727333001053367881220235421809751254540594752243<br>
+52584907711670556013604839586446706324415722155397<br>
+53697817977846174064955149290862569321978468622482<br>
+83972241375657056057490261407972968652414535100474<br>
+82166370484403199890008895243450658541227588666881<br>
+16427171479924442928230863465674813919123162824586<br>
+17866458359124566529476545682848912883142607690042<br>
+24219022671055626321111109370544217506941658960408<br>
+07198403850962455444362981230987879927244284909188<br>
+84580156166097919133875499200524063689912560717606<br>
+05886116467109405077541002256983155200055935729725<br>
+71636269561882670428252483600823257530420752963450<br>
 
-1000 basamaklı sayının en büyük çarpımı olan on üç basamağı bulun. Bu ürünün değeri nedir? 
+1000 basamaklı sayının en büyük çarpımı olan on üç basamağı bulun. Bu çarpımın değeri nedir? 
 
 # Problem 9: Özel Pisagor Üçlüsü[^9] 
 
-Bir Pisagor üçlüsü, a < b < c olmak üzere üç doğal sayı kümesidir, bunun için, a2 + b2 = c2.
+Bir Pisagor üçlüsü, a < b < c olmak üzere üç doğal sayı takımıdır, bunun için, a2 + b2 = c2.
 
 Örneğin, 32 + 42 = 9 + 16 = 25 = 52.
 
 a + b + c = 1000 olan tam olarak bir Pisagor üçlüsü vardır.
 
-abc ürününü bulun. 
+abc çarpımını bulun. 
 
 # Problem 10: Asal Sayıların Toplamı[^10] 
 
@@ -93,9 +93,9 @@ abc ürününü bulun.
 
 İki milyonun altındaki tüm asal sayıların toplamını bulun. 
 
-# Problem 11: Bir Izgaradaki En Büyük Ürün[^11]  
+# Problem 11: Bir Kareli Kağıttaki En Büyük Çarpım[^11]  
 
-Aşağıdaki 20×20 ızgarada, çapraz bir çizgi boyunca dört sayı kırmızı ile işaretlenmiştir.
+Aşağıdaki 20×20 kareli kağıtta, çapraz bir çizgi boyunca dört sayı işaretlenmiştir.
 
 08 02 22 97 38 15 00 40 00 75 04 05 07 78 52 12 50 77 91 08 <br>
 49 49 99 40 17 81 18 57 60 87 17 40 98 43 69 48 04 56 62 00 <br>
@@ -120,11 +120,11 @@ Aşağıdaki 20×20 ızgarada, çapraz bir çizgi boyunca dört sayı kırmızı
 
 Bu sayıların çarpımı 26 × 63 × 78 × 14 = 1788696'dır.
 
-20×20 ızgarasında aynı yönde (yukarı, aşağı, sol, sağ veya çapraz) dört bitişik sayının en büyük ürünü nedir? 
+20×20 kareli kağıtta aynı yönde (yukarı, aşağı, sol, sağ veya çapraz) dört bitişik sayının en büyük çarpım nedir? 
 
 # Problem 12: Çok Bölünebilir Üçgen Sayı[^12] 
 
-Üçgen sayıları dizisi, doğal sayıların eklenmesiyle oluşturulur. Yani 7. üçgen sayısı 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28 olur. İlk on terim şöyle olur:
+Üçgen sayıları dizisi, doğal sayıların eklenmesiyle oluşturulur. Yani 7. üçgen sayısı 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28 olur. İlk on sayı şöyle olur:
 
 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, ...
 
@@ -256,26 +256,25 @@ Yukarıdaki kuralı kullanarak ve 13 ile başlayarak aşağıdaki diziyi oluştu
 13 → 40 → 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1
 Bu dizinin (13'ten başlayıp 1'de biten) 10 terim içerdiği görülebilir. Henüz kanıtlanmamış olmasına rağmen (Collatz Problemi), tüm başlangıç sayılarının 1'de bittiği düşünülmektedir.
 
-Bir milyonun altındaki hangi başlangıç sayısı en uzun zinciri oluşturur?
+Bir milyonun altındaki hangi başlangıç sayısı en uzun seriyi oluşturur?
 
-NOT: Zincir bir kez başladığında terimlerin bir milyonun üzerine çıkmasına izin verilir. 
+NOT: Serinin bir kez başladığında terimlerin bir milyonun üzerine çıkmasına izin verilir. 
 
-# Problem 15: Kafes Yolları[^15] 
+# Problem 15: Kareli Kağıt Yolları[^15] 
 
-# Problem 16: Güç Basamak Toplamı[^16] 
+2×2'lik bir kareli kağıdın sol üst köşesinden başlayarak ve yalnızca sağa ve aşağı hareket edebilen, sağ alt köşeye giden tam 6 yol vardır.
 
-2=32768 ve rakamları toplamı 3 + 2 + 7 + 6 + 8 = 26'dır.
+![Resim Açıklaması](https://projecteuler.net/project/images/p015.png)
 
-21000 sayısının rakamları toplamı kaçtır? 
+20 × 20 kareli kağıtta böyle kaç rota var? 
 
-# Problem 17: Sayı Harf Sayar[^17] 
+# Problem 16: Zor Sayı Toplamı[^16] 
 
-1'den 5'e kadar olan sayılar bir, iki, üç, dört, beş kelimelerle yazılırsa, toplamda 3 + 3 + 5 + 4 + 4 = 19 harf kullanılır.
+2¹⁵=32768 ve rakamları toplamı 3 + 2 + 7 + 6 + 8 = 26'dır.
 
-1'den 1000'e (bin) kadar olan tüm sayılar kelimelerle yazılsaydı kaç harf kullanılırdı?
+2¹⁰⁰⁰ sayısının rakamları toplamı kaçtır? 
 
-
-NOT: Boşlukları veya kısa çizgileri saymayın. Örneğin, 342 (üç yüz kırk iki) 23 harf ve 115 (yüz on beş) 20 harf içerir. Rakamları yazarken "ve" kullanımı İngiliz kullanımına uygundur. 
+# Problem 17: Sayıların Harflerini Saymak[^17] 
 
 # Problem 18: Maksimum Yol Toplamı I[^18] 
 
@@ -322,7 +321,7 @@ Ve artık yıllarda, yirmi dokuz.
 Artık yıl, 4'e tam bölünebilen herhangi bir yılda meydana gelir, ancak 400'e bölünmedikçe bir yüzyılda değil.
 Yirminci yüzyılda (1 Ocak 1901 - 31 Aralık 2000) ayın ilk gününe kaç Pazar denk geldi? 
 
-# Problem 20: faktöriyel Rakam Toplamı[^20] 
+# Problem 20: Faktöriyel Rakam Toplamı[^20] 
 
 n! n × (n − 1) × ... × 3 × 2 × 1 anlamına gelir
 
