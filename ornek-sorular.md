@@ -1,10 +1,10 @@
-# Problem 1: 3 ve 5'in Katları
+# Problem 1: 3 ve 5'in Katları[^1]
 
 10'un altında 3 veya 5'in katı olan tüm doğal sayıları sıralarsak 3, 5, 6 ve 9 elde ederiz. Bu katların toplamı 23'tür.
 
 1000'in altındaki 3 veya 5'in tüm katlarının toplamını bulun. 
 
-# Problem 2: Çift Fibonacci Sayıları
+# Problem 2: Çift Fibonacci Sayıları[^2]
 
 Fibonacci dizisindeki her yeni terim, önceki iki terimin eklenmesiyle oluşturulur. 1 ve 2 ile başlayarak, ilk 10 terim şöyle olacaktır:
 
@@ -12,25 +12,25 @@ Fibonacci dizisindeki her yeni terim, önceki iki terimin eklenmesiyle oluşturu
 
 Fibonacci dizisindeki değerleri dört milyonu geçmeyen terimleri dikkate alarak çift değerli terimlerin toplamını bulunuz. 
 
-# Problem 3: En Büyük Asal Faktör
+# Problem 3: En Büyük Asal Faktör[^3]
 
 13195'in asal çarpanları 5, 7, 13 ve 29'dur.
 
 600851475143 sayısının en büyük asal çarpanı kaçtır? 
 
-# Problem 4: En Büyük Palindrom Ürünü 
+# Problem 4: En Büyük Palindrom Ürünü[^4] 
 
 Palindromik bir sayı her iki şekilde de aynı şekilde okunur. 2 basamaklı iki sayının çarpımından elde edilen en büyük palindrom 9009 = 91 × 99'dur.
 
 3 basamaklı iki sayının çarpımından oluşan en büyük palindromu bulun.
 
-# Problem 5: En Küçük Çoklu 
+# Problem 5: En Küçük Çoklu[^5] 
 
 2520, 1'den 10'a kadar olan sayıların her birine kalansız bölünebilen en küçük sayıdır.
 
 1'den 20'ye kadar olan sayıların tamamına tam bölünebilen en küçük pozitif sayı kaçtır? 
 
-# Problem 6: Toplam Kare Farkı 
+# Problem 6: Toplam Kare Farkı[^6]
 
 İlk on doğal sayının karelerinin toplamı,
 
@@ -44,13 +44,13 @@ Dolayısıyla ilk on doğal sayının kareleri toplamı ile toplamın karesi ara
 
 İlk yüz doğal sayının kareleri toplamı ile toplamın karesi arasındaki farkı bulun. 
 
-# Problem 7: 10001. Asal 
+# Problem 7: 10001. Asal[^7]
 
 İlk altı asal sayıyı listeleyerek: 2, 3, 5, 7, 11 ve 13, 6. asal sayının 13 olduğunu görebiliriz.
 
 10001. asal sayı kaçtır? 
 
-# Problem 8: Serideki En Büyük Ürün 
+# Problem 8: Serideki En Büyük Ürün[^8]
 
 1000 basamaklı sayının en büyük çarpımı olan bitişik dört basamağı 9 × 9 × 8 × 9 = 5832'dir.
 
@@ -77,7 +77,7 @@ Dolayısıyla ilk on doğal sayının kareleri toplamı ile toplamın karesi ara
 
 1000 basamaklı sayının en büyük çarpımı olan on üç basamağı bulun. Bu ürünün değeri nedir? 
 
-# Problem 9: Özel Pisagor Üçlüsü 
+# Problem 9: Özel Pisagor Üçlüsü[^9] 
 
 Bir Pisagor üçlüsü, a < b < c olmak üzere üç doğal sayı kümesidir, bunun için, a2 + b2 = c2.
 
@@ -87,13 +87,13 @@ a + b + c = 1000 olan tam olarak bir Pisagor üçlüsü vardır.
 
 abc ürününü bulun. 
 
-# Problem 10: Asal Sayıların Toplamı 
+# Problem 10: Asal Sayıların Toplamı[^10] 
 
 10'un altındaki asal sayıların toplamı 2 + 3 + 5 + 7 = 17'dir.
 
 İki milyonun altındaki tüm asal sayıların toplamını bulun. 
 
-# Problem 11: Bir Izgaradaki En Büyük Ürün 
+# Problem 11: Bir Izgaradaki En Büyük Ürün[^11]  
 
 Aşağıdaki 20×20 ızgarada, çapraz bir çizgi boyunca dört sayı kırmızı ile işaretlenmiştir.
 
@@ -103,10 +103,10 @@ Aşağıdaki 20×20 ızgarada, çapraz bir çizgi boyunca dört sayı kırmızı
 52 70 95 23 04 60 11 42 69 24 68 56 01 32 56 71 37 02 36 91 <br>
 22 31 16 71 51 67 63 89 41 92 36 54 22 40 40 28 66 33 13 80 <br>
 24 47 32 60 99 03 45 02 44 75 33 53 78 36 84 20 35 17 12 50 <br>
-32 98 81 28 64 23 67 10 **26** 38 40 67 59 54 70 66 18 38 64 70 <br>
-67 26 20 68 02 62 12 20 95 **63** 94 39 63 08 40 91 66 49 94 21 <br>
-24 55 58 05 66 73 99 26 97 17 **78** 78 96 83 14 88 34 89 63 72 <br>
-21 36 23 09 75 00 76 44 20 45 35 **14** 00 61 33 97 34 31 33 95 <br>
+32 98 81 28 64 23 67 10  ***26*** 38 40 67 59 54 70 66 18 38 64 70 <br>
+67 26 20 68 02 62 12 20 95 ***63*** 94 39 63 08 40 91 66 49 94 21 <br>
+24 55 58 05 66 73 99 26 97 17 ***78*** 78 96 83 14 88 34 89 63 72 <br>
+21 36 23 09 75 00 76 44 20 45 35 ***14*** 00 61 33 97 34 31 33 95 <br>
 78 17 53 28 22 75 31 67 15 94 03 80 04 62 16 14 09 53 56 92 <br>
 16 39 05 42 96 35 31 47 55 58 88 24 00 17 54 24 36 29 85 57 <br>
 86 56 00 48 35 71 89 07 05 44 44 37 44 60 21 58 51 54 17 58 <br>
@@ -122,7 +122,7 @@ Bu sayıların çarpımı 26 × 63 × 78 × 14 = 1788696'dır.
 
 20×20 ızgarasında aynı yönde (yukarı, aşağı, sol, sağ veya çapraz) dört bitişik sayının en büyük ürünü nedir? 
 
-# Problem 12: Çok Bölünebilir Üçgen Sayı
+# Problem 12: Çok Bölünebilir Üçgen Sayı[^12] 
 
 Üçgen sayıları dizisi, doğal sayıların eklenmesiyle oluşturulur. Yani 7. üçgen sayısı 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28 olur. İlk on terim şöyle olur:
 
@@ -139,7 +139,7 @@ Bu sayıların çarpımı 26 × 63 × 78 × 14 = 1788696'dır.
 28: 1,2,4,7,14,28
 28'in beşten fazla böleni olan ilk üçgen sayı olduğunu görebiliriz.
 
-# Problem 13: Büyük Toplam
+# Problem 13: Büyük Toplam[^13] 
 
 Beş yüzün üzerinde böleni olan ilk üçgen sayısının değeri kaçtır?
 
@@ -244,7 +244,7 @@ Beş yüzün üzerinde böleni olan ilk üçgen sayısının değeri kaçtır?
 20849603980134001723930671666823555245252804609722
 53503534226472524250874054075591789781264330331690
 
-# Problem 14: En Uzun Collatz Dizisi 
+# Problem 14: En Uzun Collatz Dizisi[^14]  
 
 Pozitif tamsayılar kümesi için aşağıdaki yinelemeli dizi tanımlanır:
 
@@ -260,11 +260,15 @@ Bir milyonun altındaki hangi başlangıç sayısı en uzun zinciri oluşturur?
 
 NOT: Zincir bir kez başladığında terimlerin bir milyonun üzerine çıkmasına izin verilir. 
 
-# Problem 15: Kafes Yolları
+# Problem 15: Kafes Yolları[^15] 
 
-# Problem 16: Güç Basamak Toplamı 
+# Problem 16: Güç Basamak Toplamı[^16] 
 
-# Problem 17: Sayı Harf Sayar
+2=32768 ve rakamları toplamı 3 + 2 + 7 + 6 + 8 = 26'dır.
+
+21000 sayısının rakamları toplamı kaçtır? 
+
+# Problem 17: Sayı Harf Sayar[^17] 
 
 1'den 5'e kadar olan sayılar bir, iki, üç, dört, beş kelimelerle yazılırsa, toplamda 3 + 3 + 5 + 4 + 4 = 19 harf kullanılır.
 
@@ -273,7 +277,7 @@ NOT: Zincir bir kez başladığında terimlerin bir milyonun üzerine çıkması
 
 NOT: Boşlukları veya kısa çizgileri saymayın. Örneğin, 342 (üç yüz kırk iki) 23 harf ve 115 (yüz on beş) 20 harf içerir. Rakamları yazarken "ve" kullanımı İngiliz kullanımına uygundur. 
 
-# Problem 18: Maksimum Yol Toplamı I 
+# Problem 18: Maksimum Yol Toplamı I[^18] 
 
 Aşağıdaki üçgenin tepesinden başlayıp aşağıdaki sıradaki bitişik sayılara geçerek, yukarıdan aşağıya maksimum toplam 23'tür.
 
@@ -304,7 +308,46 @@ Aşağıdaki üçgenin yukarıdan aşağıya maksimum toplamını bulun:
 
 NOT: Sadece 16384 rota olduğu için her rotayı deneyerek bu sorunu çözmek mümkündür. Ancak, Problem 67, yüz satır içeren bir üçgen ile aynı zorluktur; kaba kuvvetle çözülemez ve akıllıca bir yöntem gerektirir! 
 
-#Problem 19:
+# Problem 19: Pazar Günlerini Saymak[^19] 
 
-#Problem 20:
+Size aşağıdaki bilgiler verilmiştir, ancak kendiniz için biraz araştırma yapmayı tercih edebilirsiniz.
 
+1 Ocak 1900 Pazartesi idi.
+Otuz gün Eylül var,
+Nisan, Haziran ve Kasım.
+Geri kalanların hepsi otuz bir,
+Şubatı tek başına kurtarmak,
+Hangi yirmi sekiz, yağmur ya da parıldayan.
+Ve artık yıllarda, yirmi dokuz.
+Artık yıl, 4'e tam bölünebilen herhangi bir yılda meydana gelir, ancak 400'e bölünmedikçe bir yüzyılda değil.
+Yirminci yüzyılda (1 Ocak 1901 - 31 Aralık 2000) ayın ilk gününe kaç Pazar denk geldi? 
+
+# Problem 20: faktöriyel Rakam Toplamı[^20] 
+
+n! n × (n − 1) × ... × 3 × 2 × 1 anlamına gelir
+
+Örneğin, 10! = 10 × 9 × ... × 3 × 2 × 1 = 3628800,
+ve 10 sayısındaki rakamların toplamı! 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27'dir.
+
+100 sayısındaki rakamların toplamını bulunuz! 
+
+[^1]: https://projecteuler.net/problem=1
+[^2]: https://projecteuler.net/problem=2
+[^3]: https://projecteuler.net/problem=3
+[^4]: https://projecteuler.net/problem=4
+[^5]: https://projecteuler.net/problem=5
+[^6]: https://projecteuler.net/problem=6
+[^7]: https://projecteuler.net/problem=7
+[^8]: https://projecteuler.net/problem=8
+[^9]: https://projecteuler.net/problem=9
+[^10]: https://projecteuler.net/problem=10
+[^11]: https://projecteuler.net/problem=11
+[^12]: https://projecteuler.net/problem=12
+[^13]: https://projecteuler.net/problem=13
+[^14]: https://projecteuler.net/problem=14
+[^15]: https://projecteuler.net/problem=15
+[^16]: https://projecteuler.net/problem=16
+[^17]: https://projecteuler.net/problem=17
+[^18]: https://projecteuler.net/problem=18
+[^19]: https://projecteuler.net/problem=19
+[^20]: https://projecteuler.net/problem=20
