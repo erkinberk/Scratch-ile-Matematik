@@ -330,6 +330,18 @@ ve 10 sayısındaki rakamların toplamı! 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27'dir.
 
 100 sayısındaki rakamların toplamını bulunuz! 
 
+# Proplem 21: Dostçul Sayılar[^21]
+
+d(n), n'nin uygun bölenlerinin toplamı olarak tanımlansın (n'ye eşit olarak bölünen n'den küçük sayılar).
+d(a) = b ve d(b) = a ise, burada a ≠ b, o zaman a ve b dostçul bir çifttir ve a ve b'nin her birine dost sayılar denir.
+
+Örneğin, 220'nin uygun bölenleri 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 ve 110'dur; bu nedenle d(220) = 284. 284'ün uygun bölenleri 1, 2, 4, 71 ve 142'dir; yani d(284) = 220.
+
+10000'in altındaki tüm dostçul sayıların toplamını değerlendirin. 
+
+# Problem 22: Ad Skorları[^22]
+
+# Kaynakça
 [^1]: https://projecteuler.net/problem=1
 [^2]: https://projecteuler.net/problem=2
 [^3]: https://projecteuler.net/problem=3
@@ -350,3 +362,5 @@ ve 10 sayısındaki rakamların toplamı! 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27'dir.
 [^18]: https://projecteuler.net/problem=18
 [^19]: https://projecteuler.net/problem=19
 [^20]: https://projecteuler.net/problem=20
+[^21]: https://projecteuler.net/problem=21
+[^22]: https://projecteuler.net/problem=22
